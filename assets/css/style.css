@@ -17,6 +17,7 @@
   =============================================================*/
 /*01.GENERAL STYLE*/
 
+
 body {
     font-size: 16px;
     font-weight: 400;
@@ -733,7 +734,6 @@ ul.work li:hover {
 }
 .testimonial-section-inner {
     display: block;
-    vertical-align: middle;
 }
 .testimonial-list {
     margin-left: auto;
@@ -1005,6 +1005,22 @@ ul.contact-list i {
     margin: 0;
     color: #fff;
 }
+
+.footer-top-area{
+    display: flexconta;
+}
+
+.footer-top-area{
+    display: flex;
+}
+
+.mb-4 h2{
+    color: white;
+}
+.text-center{
+    justify-content: center;
+}
+
 .footer-bottom-area {
     padding: 30px 0;
 }
