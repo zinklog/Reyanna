@@ -1021,6 +1021,21 @@ ul.contact-list i {
     justify-content: center;
 }
 
+.formHead{
+    justify-content: center;
+    margin-left: 200px;
+}
+
+.footer-info{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer-single{
+    display: flex;
+    margin-top: 5px;
+}
+
 .footer-bottom-area {
     padding: 30px 0;
 }
