@@ -1013,8 +1013,26 @@ ul.contact-list i {
 .footer-top-area{
     display: flex;
 }
+.footer-widget > ul > li{
+    justify-content: center;
+}
+
+.foooter{
+    justify-content: center;
+    text-align: center;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+
+.footer-menu{
+    justify-content: center;
+}
 
 .mb-4 h2{
+    color: #fff;
+}
+
+.mb-4 h5{
     color: #fff;
 }
 .text-center{
@@ -1034,6 +1052,17 @@ ul.contact-list i {
 .footer-single{
     display: flex;
     margin-top: 5px;
+}
+
+.formHead{
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-social > ul{
+    display: flex;
+    justify-content: center;
+    margin-right: 250px;
 }
 
 .footer-bottom-area {
