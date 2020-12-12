@@ -142,6 +142,14 @@ fieldset {
 .section-padding {
     padding: 60px 0;
 }
+.career {
+	padding-left: 160px;
+	padding-right: 160px;
+}
+.career1 {
+	padding-left: 160px;
+	padding-right: 160px;
+}
 .gry-bg {
     background: #f6f6f6;
 }
@@ -273,6 +281,11 @@ a.slide-btn:hover {
     line-height: 50px;
     margin-bottom: 20px;
 }
+.single-slide-item h3 {
+    color: #fff;
+    line-height: 50px;
+    
+}
 .single-slide-item h2 span {
     color: #2980b9;
 }
@@ -289,6 +302,10 @@ a.slide-btn:hover {
 }
 .slide-3 {
     background:url(../img/bg/slide-3.jpg);
+    background-size: cover;
+}
+.slide-4 {
+    background:url(../img/bg/slide-4.jpg);
     background-size: cover;
 }
 .single-slide-item {
