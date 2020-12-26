@@ -193,18 +193,18 @@ fieldset {
 }
 .mainmenu .navbar-nav li a:hover {
     background: none;
-    color: #23d175;
+    color: #00ffff;
     -webkit-transition: .3s;
     transition: .3s;
 }
 .nav li a:hover,
 .nav li a:focus {
     background: none;
-    color: #23d175;
+    color: #00ffff;
 }
 .menu-bg .navbar-nav li a:hover,
 .menu-bg .navbar-nav li.active a {
-    color: #23d175;
+    color: #00ffff;
     -webkit-transition: .3s;
     transition: .3s;
 }
@@ -229,10 +229,10 @@ fieldset {
     transition: .3s;
 }
 .menu-bg .logo a {
-    color: #23d175;
+    color: #00FFFF;
 }
 .menu-bg .mainmenu .navbar-nav li a:hover {
-    color: #23d175;
+    color: #00FFFF;
 }
 /*02. END MENU DESIGN AREA*/
 /*03.START HOME DESIGN AREA*/
@@ -429,7 +429,7 @@ a.welcome-control:focus {
     margin-top: 50px;
 }
 .about-text span {
-    color: #23d175;
+    color: #00FFFF;
 }
 .about-text > p {
     margin-bottom: 20px;
@@ -538,7 +538,8 @@ a.about-btn:hover {
     font-size: 20px;
 }
 .great-started {
-    background: rgba(0, 0, 0, 0) url("img/bg/get-started-bg.jpg") repeat fixed 0 0 / cover;
+    #c71ec7
+	#fff
     position: relative;
     z-index: 1;
 }
@@ -548,9 +549,9 @@ a.about-btn:hover {
     margin-top: 25px;
 }
 a.get-start-btn {
-    background: #23d175 none repeat scroll 0 0;
+    background: #00FFFF none repeat scroll 0 0;
     border-radius: 4px;
-    color: #fff;
+    color: #141a1a;
     display: inline-block;
     font-size: 16px;
     font-weight: 400;
@@ -559,7 +560,7 @@ a.get-start-btn {
     text-transform: uppercase;
 }
 a.get-start-btn:hover {
-    background: #17a158;
+    background: #228282;
     -webkit-transition: .5s;
     transition: .5s;
 }
@@ -936,7 +937,7 @@ ul.contact-list i {
     text-transform: uppercase;
 }
 .footer-menu li a:hover {
-    color: #23d175;
+    color: #00ffff;
 }
 .footer-menu i {
     margin-right: 3px;
@@ -995,7 +996,7 @@ ul.contact-list i {
     width: 35px;
 }
 .footer-social a:hover {
-    background: #23d175;
+    background: #00FFFF;
     color: #fff;
     transition: .5s;
 }
