@@ -102,7 +102,8 @@ fieldset {
 /*START SCROLL TO UP DESIGN*/
 
 .scrollup {
-    background: #23d175 none repeat scroll 0 0;
+	
+    background: #7030A0 none repeat scroll 0 0;
     border-radius: 50%;
     bottom: 30px;
     color: #fff;
@@ -118,7 +119,7 @@ fieldset {
     z-index: 9;
 }
 .scrollup:hover {
-    background: #17a158;
+    background: #7F3FFF;
     -webkit-transition: .5s;
     transition: .5s;
 }
@@ -193,18 +194,18 @@ fieldset {
 }
 .mainmenu .navbar-nav li a:hover {
     background: none;
-    color: #9400D3;
+    color: #7030A0;
     -webkit-transition: .3s;
     transition: .3s;
 }
 .nav li a:hover,
 .nav li a:focus {
     background: none;
-    color: #9400D3;
+    color: #7030A0;
 }
 .menu-bg .navbar-nav li a:hover,
 .menu-bg .navbar-nav li.active a {
-    color: #9400D3;
+    color: #7030A0;
     -webkit-transition: .3s;
     transition: .3s;
 }
@@ -229,10 +230,10 @@ fieldset {
     transition: .3s;
 }
 .menu-bg .logo a {
-    color: #9400D3;
+    color: #7030A0;
 }
 .menu-bg .mainmenu .navbar-nav li a:hover {
-    color: #9400D3;
+    color: #7030A0;
 }
 /*02. END MENU DESIGN AREA*/
 /*03.START HOME DESIGN AREA*/
@@ -429,7 +430,7 @@ a.welcome-control:focus {
     margin-top: 50px;
 }
 .about-text span {
-    color: #9400D3;
+    color: #7030A0;
 }
 .about-text > p {
     margin-bottom: 20px;
@@ -543,7 +544,7 @@ a.about-btn:hover {
     margin-top: 25px;
 }
 a.get-start-btn {
-    background: #9400D3 none repeat scroll 0 0;
+    background: #7030A0 none repeat scroll 0 0;
     border-radius: 4px;
     color: #141a1a;
     display: inline-block;
@@ -931,7 +932,7 @@ ul.contact-list i {
     text-transform: uppercase;
 }
 .footer-menu li a:hover {
-    color: #9400D3;
+    color: #7030A0;
 }
 .footer-menu i {
     margin-right: 3px;
@@ -992,7 +993,7 @@ ul.contact-list i {
     width: 35px;
 }
 .footer-social a:hover {
-    background: #9400D3;
+    background: #7030A0;
     color: #fff;
     transition: .5s;
 }
