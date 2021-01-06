@@ -193,18 +193,18 @@ fieldset {
 }
 .mainmenu .navbar-nav li a:hover {
     background: none;
-    color: #00ffff;
+    color: #9400D3;
     -webkit-transition: .3s;
     transition: .3s;
 }
 .nav li a:hover,
 .nav li a:focus {
     background: none;
-    color: #00ffff;
+    color: #9400D3;
 }
 .menu-bg .navbar-nav li a:hover,
 .menu-bg .navbar-nav li.active a {
-    color: #00ffff;
+    color: #9400D3;
     -webkit-transition: .3s;
     transition: .3s;
 }
@@ -229,10 +229,10 @@ fieldset {
     transition: .3s;
 }
 .menu-bg .logo a {
-    color: #00FFFF;
+    color: #9400D3;
 }
 .menu-bg .mainmenu .navbar-nav li a:hover {
-    color: #00FFFF;
+    color: #9400D3;
 }
 /*02. END MENU DESIGN AREA*/
 /*03.START HOME DESIGN AREA*/
@@ -429,7 +429,7 @@ a.welcome-control:focus {
     margin-top: 50px;
 }
 .about-text span {
-    color: #00FFFF;
+    color: #9400D3;
 }
 .about-text > p {
     margin-bottom: 20px;
@@ -543,7 +543,7 @@ a.about-btn:hover {
     margin-top: 25px;
 }
 a.get-start-btn {
-    background: #00FFFF none repeat scroll 0 0;
+    background: #9400D3 none repeat scroll 0 0;
     border-radius: 4px;
     color: #141a1a;
     display: inline-block;
@@ -931,7 +931,7 @@ ul.contact-list i {
     text-transform: uppercase;
 }
 .footer-menu li a:hover {
-    color: #00ffff;
+    color: #9400D3;
 }
 .footer-menu i {
     margin-right: 3px;
@@ -992,7 +992,7 @@ ul.contact-list i {
     width: 35px;
 }
 .footer-social a:hover {
-    background: #00FFFF;
+    background: #9400D3;
     color: #fff;
     transition: .5s;
 }
