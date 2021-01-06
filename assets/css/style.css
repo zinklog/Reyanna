@@ -213,7 +213,7 @@ fieldset {
     margin: 0;
 }
 .menu-bg {
-    background: rgba(0, 0, 0, 0.7);
+    background: rgba(0, 0, 0, 0.3);
     z-index: 999;
 }
 .menu-bg .navbar-nav li a {
