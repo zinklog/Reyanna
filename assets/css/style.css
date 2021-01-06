@@ -537,12 +537,6 @@ a.about-btn:hover {
     color: #fff;
     font-size: 20px;
 }
-.great-started {
-    #c71ec7
-	#fff
-    position: relative;
-    z-index: 1;
-}
 .great-started-text > h2 {
     color: #fff;
     font-size: 20px;
@@ -1024,13 +1018,8 @@ ul.contact-list i {
     color: #fff;
 }
 
-.footer-top-area{
-    display: flexconta;
-}
 
-.footer-top-area{
-    display: flex;
-}
+
 .footer-widget > ul > li{
     justify-content: center;
 }
