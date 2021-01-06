@@ -970,9 +970,9 @@ ul.contact-list i {
     opacity: .5;
 }
 .footer-social {
-    margin-top: 80px;
+    margin-top: 40px;
     justify-self: center;
-    margin-left: 540px;
+    margin-left: 440px;
 }
 .footer-social ul {
     list-style: outside none none;
