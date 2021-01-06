@@ -835,7 +835,7 @@ ul.work li:hover {
 }
 .contact-from textarea.form-control {
     height: 200px;
-    resize: none;
+
 }
 .contact-from button {
     background: #23d175;
@@ -970,7 +970,9 @@ ul.contact-list i {
     opacity: .5;
 }
 .footer-social {
-    margin-top: 20px;
+    margin-top: 80px;
+    justify-self: center;
+    margin-left: 540px;
 }
 .footer-social ul {
     list-style: outside none none;
